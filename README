@@ -1,6 +1,6 @@
 xlsatoms
 ------------------------------------------
-Xorg interned atoms lister
+X.Org interned atoms lister
 
 Runtime requirements:
   cygwin-1.5.20-1
