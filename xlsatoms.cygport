@@ -1,0 +1,11 @@
+inherit xorg
+
+NAME="xlsatoms"
+VERSION=1.1.1
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X interned atoms lister"
+DESCRIPTION="Xlsatoms lists the interned atoms.  By default, all atoms
+starting from 1 are listed until unknown atom is found.  If an explicit range
+is given, xlsatoms will try all atoms in the range, regardless of whether or
+not any are undefined."

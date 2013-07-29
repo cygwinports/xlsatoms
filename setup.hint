@@ -1,4 +1,0 @@
-category: X11
-requires: libxcb1
-sdesc: "X.Org interned atoms lister"
-ldesc: "X.Org interned atoms lister"
